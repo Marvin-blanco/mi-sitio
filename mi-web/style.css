@@ -2,10 +2,54 @@ h1 {
     text-align: center;
 }
 
-p {
-    text-align: center;
+
+header {
+    background-color: rgba(253, 4, 4, 0.315);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+
 }
 
-body{
-    background-color: aquamarine;
+.gob_pe {
+  margin-left: 2%;
+}
+
+.pnp {
+    width: 7%;
+    height: 7%;
+    margin-right: 2%;   
+}
+
+.max {
+    float: left;
+    margin-right: 1%;
+    padding: 1%;
+}
+
+main {
+    background-color: gainsboro;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+footer {
+    background-color: rgba(253, 4, 4, 0.315);
+    text-align: center;
+    padding: 1%;
+    border-radius: 10px;
+
+}
+
+.fb {
+    width: 20px;
+    height: 20px;
+    margin: 1%;
+}
+
+.tw {
+    width: 20px;
+    height: 20px;
+    margin: 1%;
 }
